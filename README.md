@@ -1,5 +1,5 @@
-# MOVED to `sjsu-sc131-spring26`: https://github.com/sjsu-cs131-spring26/mergeconflict-crashes-transportation
-This repository was moved to the class repo.
+# MOVED to `sjsu-cs131-spring26`: https://github.com/sjsu-cs131-spring26/mergeconflict-crashes-transportation
+This repository was moved to the class repository `sjsu-cs131-spring26`.
 
 ## mergeconflict-crashes-transportation
 
