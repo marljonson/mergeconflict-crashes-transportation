@@ -1,4 +1,7 @@
-# mergeconflict-crashes-transportation
+# MOVED to `sjsu-sc131-spring26`: https://github.com/sjsu-cs131-spring26/mergeconflict-crashes-transportation
+This repository was moved to the class repo.
+
+## mergeconflict-crashes-transportation
 
 - **Course:** CS 131 (Processing Big Data - Tools and Techniques), section 02
 - **Instructor:** Jelena Gligorijevic
